@@ -1,0 +1,6 @@
+framework module youtube_ios_player_helper_swift {
+  umbrella header "youtube-ios-player-helper-swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

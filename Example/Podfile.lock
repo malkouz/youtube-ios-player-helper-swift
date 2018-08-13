@@ -1,0 +1,16 @@
+PODS:
+  - youtube-ios-player-helper-swift (1.0)
+
+DEPENDENCIES:
+  - youtube-ios-player-helper-swift (from `../`)
+
+EXTERNAL SOURCES:
+  youtube-ios-player-helper-swift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  youtube-ios-player-helper-swift: 7fb7286bc55156a4e657737bb22de2c4a48438ae
+
+PODFILE CHECKSUM: 263ac91ba3d4d23c6db02170ac4dec9689b60e1c
+
+COCOAPODS: 1.5.3
