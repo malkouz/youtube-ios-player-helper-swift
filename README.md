@@ -6,11 +6,11 @@
 
 
 <h1 align="center">youtube-ios-player-helper-swift</h1>
-<h3 align="center">A circular progress bar for iOS written in Swift</h3>
+<h3 align="center">Helper library for iOS developers looking to add YouTube video playback in their applications via the iframe player in a UIWebView</h3>
 
-<p align="center">
-<img src="https://github.com/malkouz/youtube-ios-player-helper-swift/raw/master/demo.gif"/>  
-</p>
+<h3>This library is the same of old objective-c https://github.com/youtube/youtube-ios-player-helper</h3>
+
+
 
 ## Features
 
