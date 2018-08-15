@@ -59,5 +59,5 @@ Twitter : @malkouz
 
 ## License
 
-youtube-ios-player-helper-swift is available under the MIT license. See the LICENSE file for more info.
+youtube-ios-player-helper-swift is available under the Apache License. See the LICENSE file for more info.
 
