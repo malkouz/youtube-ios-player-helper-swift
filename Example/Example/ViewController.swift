@@ -13,6 +13,10 @@ class ViewController: UIViewController {
 
    private var playerView: PlayerView!
     
+    override var supportedInterfaceOrientations: UIInterfaceOrientationMask{
+        return .portrait
+    }
+    
     override var shouldAutorotate: Bool{
         return false
     }
