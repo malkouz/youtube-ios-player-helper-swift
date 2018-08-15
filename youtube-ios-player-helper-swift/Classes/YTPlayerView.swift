@@ -840,7 +840,7 @@ open class YTPlayerView: UIView {
      *
      * @param url A URL of the format ytplayer://action?data=value.
      */
-    private func notifyDelegateOfYouTubeCallbackUrl(url: URL){
+    func notifyDelegateOfYouTubeCallbackUrl(url: URL){
         let query = url.query
         
         var data: String? = nil
@@ -886,7 +886,7 @@ open class YTPlayerView: UIView {
         }
     }
     
-    private func handleHttpNavigationToUrl(url: URL) -> Bool{
+    func handleHttpNavigationToUrl(url: URL) -> Bool{
         // Usually this means the user has clicked on the YouTube logo or an error message in the
         // player. Most URLs should open in the browser. The only http(s) URL that should open in this
         // UIWebView is the URL for the embed, which is of the format:

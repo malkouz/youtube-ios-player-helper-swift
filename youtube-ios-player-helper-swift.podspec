@@ -2,9 +2,9 @@
 
 Pod::Spec.new do |s|
   s.name             = 'youtube-ios-player-helper-swift'
-  s.version          = '1.0'
+  s.version          = '1.0.1'
   s.summary          = 'Helper library for iOS developers looking to add YouTube video playback in their applications via the iframe player in a UIWebView.'
-
+  s.swift_version = '4.0'
   s.description      = <<-DESC
 A full swift implementation of https://github.com/youtube/youtube-ios-player-helper. Helper library for iOS developers looking to add YouTube video playback in their applications via the iframe player in a UIWebView.
                        DESC
@@ -22,4 +22,6 @@ A full swift implementation of https://github.com/youtube/youtube-ios-player-hel
    s.resource_bundles = {
      'youtube-ios-player-helper-swift' => ['youtube-ios-player-helper-swift/Assets/*']
   }
+   
+   
 end
