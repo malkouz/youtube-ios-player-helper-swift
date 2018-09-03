@@ -21,7 +21,7 @@
 
 ## Installation 
 
-### CocoaPods (Recommended)
+### CocoaPods
 
 1. Install [CocoaPods](https://cocoapods.org)
 2. Add this repo to your `Podfile`
