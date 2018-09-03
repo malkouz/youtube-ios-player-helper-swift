@@ -5,7 +5,6 @@
 [![Platform](https://img.shields.io/cocoapods/p/youtube-ios-player-helper-swift.svg?style=flat)](http://cocoapods.org/pods/youtube-ios-player-helper-swift)
 
 
-<h1 align="center">youtube-ios-player-helper-swift</h1>
 <h3 align="center">Helper library for iOS developers looking to add YouTube video playback in their applications via the iframe player in a UIWebView</h3>
 
 <h3>This library is the same of old objective-c https://github.com/youtube/youtube-ios-player-helper</h3>
